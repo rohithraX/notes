@@ -1,4 +1,5 @@
 https://github.com/docker-library/mysql/issues/275
 https://kyup.com/tutorials/create-new-user-grant-permissions-mysql/
+https://stackoverflow.com/questions/21714869/error-1044-42000-access-denied-for-root-with-all-privileges
 mysql in docker was not connecting to node docker and then found this .
 ////////////////////////////////////////
