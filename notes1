@@ -1,0 +1,4 @@
+https://github.com/docker-library/mysql/issues/275
+
+mysql in docker was not connecting to node docker and then found this .
+////////////////////////////////////////
