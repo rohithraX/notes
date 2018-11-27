@@ -4,3 +4,13 @@ https://stackoverflow.com/questions/21714869/error-1044-42000-access-denied-for-
 mysql in docker was not connecting to node docker and then found this .
 onetimepassword not generated as i gave volume. correct ip is missing. user allowed on all ips. user given priv.
 ////////////////////////////////////////
+
+
+
+//cors 
+app.use(function (req, res, next) {
+	res.header("Access-Control-Allow-Origin", "*");
+	res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
+	next();
+});
+///////////////////////////////////////
